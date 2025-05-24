@@ -2,17 +2,6 @@
 
 CS + Math @ UT Austin | Undergraduate Researcher @ NRG 
 
-## What I'm Working On
-- Human-Robot Interaction research with ROS at NRG 
-- Simulation tools for FSAE (Longhorn Racing)
-
-## I'm Currently Learning
-- Advanced Robotics (ROS2, motion planning)
-- Systems Programming (OS, memory allocators)
-- Deep Learning (CNNs, Transformer models)
-- Rust & Haskell (because why not?)
-
-
 ## How to Reach Me
 - [emilyliangyr@gmail.com](mailto:emilyliangyr@gmail.com)
 - [LinkedIn](www.linkedin.com/in/emilyliangyr)
