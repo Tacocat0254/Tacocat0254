@@ -2,7 +2,7 @@
 
 CS + Math @ UT Austin | Undergraduate Researcher @ NRG 
 
-## 🔭 What I'm Working On
+## What I'm Working On
 - Human-Robot Interaction research with ROS at NRG 
 - Simulation tools for FSAE (Longhorn Racing)
 
