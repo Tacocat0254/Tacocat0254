@@ -1,6 +1,6 @@
 # Hi, I'm Emily!
 
-CS + Math @ UT Austin | 🤖 Undergraduate Researcher @ NRG 
+CS + Math @ UT Austin | Undergraduate Researcher @ NRG 
 
 ## 🔭 What I'm Working On
 - Human-Robot Interaction research with ROS at NRG 
@@ -18,11 +18,11 @@ CS + Math @ UT Austin | 🤖 Undergraduate Researcher @ NRG
 - [LinkedIn](www.linkedin.com/in/emilyliangyr)
 - [Personal Website](https://tacocat0254.github.io/my-website/)
 
-## ⚙️ Tech Stack
+## Tech Stack
 **Languages**: Python, C/C++, Java, Verilog, ARM/x86 Assembly, Rust, Haskell  
 **Frameworks & Tools**: Pandas, NumPy, Matplotlib, Keras, TensorFlow, ROS, OpenCV, Git, Docker  
 
 ## Fun Facts
-- 🪨 I like rock climbing!
+- I like rock climbing!
 
 Thanks for stopping by! Feel free to explore my repos 👇
