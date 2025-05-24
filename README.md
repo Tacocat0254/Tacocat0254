@@ -8,7 +8,7 @@ CS + Math @ UT Austin | Undergraduate Researcher @ NRG
 - [Personal Website](https://tacocat0254.github.io/my-website/)
 
 ## Tech Stack
-**Languages**: Python, C/C++, Java, Verilog, ARM/x86 Assembly, Rust, Haskell  
+**Languages**: Python, C/C++, Java, HTML/CSS, JavaScript/TypeScript, Verilog, ARM/x86 Assembly, Rust, Haskell  
 **Frameworks & Tools**: Pandas, NumPy, Matplotlib, Keras, TensorFlow, ROS, OpenCV, Git, Docker  
 
 ## Fun Facts
