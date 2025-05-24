@@ -14,4 +14,4 @@ CS + Math @ UT Austin | Undergraduate Researcher @ NRG
 ## Fun Facts
 - I like rock climbing!
 
-Thanks for stopping by! Feel free to explore my repos 👇
+Thanks for stopping by! Feel free to explore my repos!
