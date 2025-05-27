@@ -5,7 +5,7 @@ CS + Math @ UT Austin | Undergraduate Researcher @ NRG
 ## How to Reach Me
 - [emilyliangyr@gmail.com](mailto:emilyliangyr@gmail.com)
 - [LinkedIn](www.linkedin.com/in/emilyliangyr)
-- [Personal Website](https://tacocat0254.github.io/my-website/)
+- [Personal Website](https://www.emilyliangyr.com/)
 
 ## Tech Stack
 **Languages**: Python, C/C++, Java, HTML/CSS, JavaScript/TypeScript, Verilog, ARM/x86 Assembly, Rust, Haskell  
